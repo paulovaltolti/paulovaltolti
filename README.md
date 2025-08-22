@@ -13,30 +13,16 @@
 </div>
 
 <div style="text-align: center;">
-  <table style="margin: 0 auto; border-collapse: collapse; border: none;">
-    <tr style="border: none;">
-      <td style="border: none;">
-        <div style="display: flex; align-items: flex-start; gap: 20px;">
-          <!-- Texto -->
-          <div style="flex: 1; text-align: justify;">
-            <p>
-              Me chamo <strong>Paulo Sérgio Oliveira Valtolti</strong>, tenho 37 anos e sou natural de Presidente Prudente - SP.<br>
-              Sou formado em Gestão Empresarial e atualmente estou me especializando na área de <strong>Qualidade de Software (QA)</strong>, com foco em assegurar a eficiência, confiabilidade e excelência em todo o ciclo de desenvolvimento de software.
-              Tenho direcionado meus estudos no produto e em ferramentas de automação, como o <strong>Robot Framework</strong> e <strong>Postman</strong>.<br>
-              Busco aplicar cada aprendizado na construção de cenários de teste práticos e relevantes, contribuindo para a entrega de softwares mais robustos, funcionais e alinhados às necessidades do usuário ao longo da minha jornada em Qualidade de Software.
-            </p>
-          </div>
-        </div>
-      </td>
-      <td style="border: none;">
-        <!-- GIF -->
-        <div>
-          <img src="https://raw.githubusercontent.com/paulovaltolti/paulovaltolti/c2d1ec2d9feeca352dcab015fa3b17cdb3d38b74/8a67271d49b150585a1de54478a2b28a.gif" width="400px" style="border-radius:10px;" />
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+
+
+<!-- Texto -->
+<div align="center" style="flex: 1; text-align: justify;">
+<p>
+Me chamo <strong>Paulo Sérgio Oliveira Valtolti</strong>, tenho 37 anos e sou natural de Presidente Prudente - SP.<br>
+Sou formado em Gestão Empresarial e atualmente estou me especializando na área de <strong>Qualidade de Software (QA)</strong>, <br>com foco em assegurar a eficiência, confiabilidade e excelência em todo o ciclo de desenvolvimento de software.<br>
+Tenho direcionado meus estudos no produto e em ferramentas de automação, como o <strong>Robot Framework</strong> e <strong>Postman</strong>.<br>
+Busco aplicar cada aprendizado na construção de cenários de teste práticos e relevantes, contribuindo para a entrega de softwares mais robustos, funcionais e alinhados às necessidades do usuário ao longo da minha jornada em Qualidade de Software.
+</p></div>
 
 ---
 <div align="center">
@@ -46,7 +32,12 @@
 </div>
 
 <div align="center">
-  
+
+ <!-- GIF -->
+ <div align="center">
+   <img src="https://raw.githubusercontent.com/paulovaltolti/paulovaltolti/c2d1ec2d9feeca352dcab015fa3b17cdb3d38b74/8a67271d49b150585a1de54478a2b28a.gif" width="600px" style="border-radius:10px;" />
+ </div><br>
+
 ### 🤖 Ferramentas e Tecnologias
 
 <img  
