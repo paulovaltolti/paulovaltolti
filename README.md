@@ -1,5 +1,3 @@
-<br/>
-
 <h1 > <div align="center"> 🎮🎧 Paulo Valtolti </h1></div>
 
 <div align="center">
