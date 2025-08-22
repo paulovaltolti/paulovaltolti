@@ -41,6 +41,8 @@
 
 ---
 
+![snake gif](https://github.com/paulovaltolti/paulovaltolti/blob/output/github-contribution-grid-snake.gif)
+
 ### 🤖 Ferramentas e Tecnologias
 
 <img  
