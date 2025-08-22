@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-
+  
 **`Quality Assurance`**
 
 </div>
@@ -38,11 +38,15 @@
   </table>
 </div>
 
-
 ---
+<div align="center">
+  
+![snake gif](https://github.com/paulovaltolti/paulovaltolti/blob/output/github-snake-dark.svg)
 
-![snake gif](https://github.com/paulovaltolti/paulovaltolti/blob/output/github-contribution-grid-snake.gif)
+</div>
 
+<div align="center">
+  
 ### 🤖 Ferramentas e Tecnologias
 
 <img  
@@ -89,14 +93,18 @@
 />
 </div>
 
+<div align="center">
+  
 ### 🖥️ Estação de trabalho
 
   <a href="#"><img src="https://img.shields.io/badge/NVIDIA-4070 Ti Super-76B900?logo=nvidia&logoColor=white" alt="NVIDIA 30504070 Ti Super"></a>
   <a href="#"><img src="https://img.shields.io/badge/AMD-Ryzen%207%205800X3D-ED1C24?logo=amd&logoColor=white" alt="AMD Ryzen 7 5800x3d"></a>
   <a href="#"><img src= "https://img.shields.io/badge/ASUS-TUF%20GAMING%20B550M--PLUS%20WIFI%20II-FF9900?logo=asus&logoColor=white&style=flat-square" alt="AMD Ryzen 7 5800x3d"></a>
   <a href="#"><img src="https://img.shields.io/badge/HyperX-%20DDR4%2034GB-0078D6?logo=kingstontechnology&logoColor=white&style=flat-square" alt="HyperX Fury DDR4 34GB"></a>
-  </div>
+</div>
 
+<div align="center">
+  
 ### 📢 Contato
 <a>
 
@@ -104,7 +112,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulovaltolti) 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/paulovaltolti)
 </a>
-</div>
+</div><br>
 
 ---
 
@@ -115,13 +123,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulovaltolti&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-br"/>
   <img height="200em" src="https://github.com/paulovaltolti/paulovaltolti/blob/main/freepik__adjust__91348.png?raw=true"/>
 </a>
-</div>
+</div><br>
 
 ---
 
 <div align="center">
 
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=paulovaltolti.paulovaltolti&left_color=blue&right_color=gray" width="80" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=paulovaltolti.paulovaltolti&left_color=blue&right_color=gray" width="80" /><br>
 
 
   [![Paulo Valtolti's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=paulovaltolti&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
